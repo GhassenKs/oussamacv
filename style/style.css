@@ -1,0 +1,150 @@
+.bb{
+    
+    height: 900px;
+}
+.rep{
+    
+    width: 18%;
+    display: inline-block;
+    margin-left: 10px;
+    padding-left: 28px;
+    margin-top: 15px;
+    
+    
+
+}
+.parent{
+   
+    width: 55%;
+    text-align: left;
+    margin-top: 50px;
+    margin-left: 20%;
+    background-color: #eeeeee;
+    height: 120%;
+    font-family: 'Montserrat', sans-serif;
+    position: absolute;
+    z-index: -20;
+
+    
+}
+.parent2{
+   
+    width: 55%;
+    text-align: left;
+    margin-top: 50px;
+    margin-left: 20%;
+    background-color: #eeeeee;
+    height: 120%;
+    font-family: 'Montserrat', sans-serif;
+    position: absolute;
+    z-index: -20;
+
+    
+}
+.cercle{
+    height: 120px;
+    width: 120px;
+    background-color: #f7ca18;
+    border-radius: 120px;
+    position: absolute;
+    margin-top: -200px;
+    z-index: -10;
+    margin-left: 5px;
+
+}
+.rep p {
+    font-size: 12px;
+    color: grey;
+   
+}
+.heads img{
+    width: 128px;
+    
+    border-radius: 150px;
+    margin-left: 250px;
+    position: absolute;
+    margin-top: -120px;
+    
+    
+
+}
+.yellow{
+    background-color: red;
+    width: 150px;
+}
+.tete{
+    display: inline-block;
+    padding-left: 28px;
+  
+}
+.heads h1{
+    font-size: 55px;
+    text-transform: uppercase;
+   
+    padding-top: -50px;
+    
+    
+    
+    
+ 
+    
+}
+.heads p {
+  
+    width: 50%;
+    margin-left: 35px;
+    margin-top: -25px;
+    text-transform: uppercase;
+}
+.hy {
+    height: 2px;
+    background-color: #f7ca18;
+    border: none;
+}
+.twil {
+    width: 523px;
+    height: 1px;
+    background-color: #777777;
+}
+.proc{
+    float: left;
+    clear: none;
+  
+}
+.work{
+    float: left;
+    clear: none;
+   
+    width: 150px;
+    
+}
+ h4 {
+    width:120px;
+ 
+    margin-top: 24px;
+    font-size: 20px;
+    text-transform: uppercase;
+    
+}
+.proc p {
+    width: 500px;
+
+    margin-left: 70px;
+    margin-top:25px;
+    color: grey;
+    font-size: 13px;
+  
+    
+}
+.pro{
+    margin-left: 40px;
+    
+     
+}
+.work h5{
+    margin-left: 50px;
+}
+.work p{
+    margin-left: 0px;
+    width: 380px;
+}
